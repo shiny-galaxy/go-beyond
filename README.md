@@ -5,10 +5,23 @@
 ## Структура
   
 >1. Главная:  
->[/]merch
+>[/] merch
 > 
 >2. Тип продукции:  
->[/]tshirt/hoody, notebook, cup, pen, socks
+>[/] tshirt/hoody, notebook, cup, pen, socks
 > 
 >3. Основной цвет:  
->[/]white, black, red, green, blue, yellow, pink
+>[/] white, black, red, green, blue, yellow, pink
+
+## Мокапы
+  
+
+<img src="/merch/meta/tshirt-comet-blue.png" alt="Blue t-shirt with comet" style="width:50%; height:auto;">
+<img src="/merch/meta/tshirt-comet-white.png" alt="White t-shirt with comet" style="width:50%; height:auto;">
+<img src="/merch/meta/tshirt-trio-yellow.png" alt="Yellow t-shirt with trio" style="width:50%; height:auto;">
+<img src="/merch/meta/tshirt-flatlines-red.png" alt="Red t-shirt with flatlines" style="width:50%; height:auto;">
+<img src="/merch/meta/hoodie-leaf-red-front.png" alt="Fronside of red hoodie" style="width:50%; height:auto;">
+<img src="/merch/meta/hoodie-leaf-red-back.png" alt="Backside of red hoodie" style="width:50%; height:auto;">
+<img src="/merch/meta/mugs.png" alt="Mugs mockups" style="width:50%; height:auto;">
+<img src="/merch/meta/socks.png" alt="Socks mockups" style="width:50%; height:auto;">
+<img src="/merch/meta/pens.png" alt="Pens mockups" style="width:50%; height:auto;">
