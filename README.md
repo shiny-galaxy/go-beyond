@@ -8,7 +8,7 @@
 >[/] merch
 > 
 >2. Тип продукции:  
->[/] tshirt/hoody, notebook, cup, pen, socks
+>[/] tshirt/hoodie, notebook, cup, pen, socks
 > 
 >3. Основной цвет:  
 >[/] white, black, red, green, blue, yellow, pink
